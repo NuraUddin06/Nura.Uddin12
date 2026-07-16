@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I am a student passionate about the intersection of healthcare, genetics, and technology. I am especially interested in understanding how computational biology can help researchers analyze biological data, uncover patterns in diseases, and develop better treatments. Through DREAM-High, I hope to strengthen my skills in data analysis, coding, and bioinformatics while learning how computational tools can be applied to real-world health challenges. I am excited to explore how technology can advance our understanding of genetics, rare diseases, and personalized medicine.",
 
   /*
   Optional photo:
@@ -25,7 +25,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg",
 
   contact: "Contact information available upon request.",
 
@@ -43,7 +43,7 @@ const studentProfile = {
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/Nura_Uddin08/1446625"
     }
   ],
 
@@ -65,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/NuraUddin06"
     }
   ]
 };
